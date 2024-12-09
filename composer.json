@@ -1,0 +1,17 @@
+{
+    "name": "ufuk/gdg",
+    "type": "project",
+    "license": "BSD-3-Clause",
+    "authors": [
+        {
+            "name": "ufukatici",
+            "email": "ufuk.development@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "tecnickcom/tcpdf": "^6.7",
+        "phpmailer/phpmailer": "^6.9",
+        "phpoffice/phpspreadsheet": "^3.5"
+    }
+}
